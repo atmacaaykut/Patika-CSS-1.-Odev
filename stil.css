@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bosluk{
+
+	margin-top:200px;
+	
+	padding:20px;
+	padding-top:0;
+	}
+.aramacubuk{
+	margin-top:0;
+	
+	}
+	
+.bosluksuz{
+	font-size:16px;
+		margin-top:0;
+		
+	}
+	
+.button {
+  
+  
+  
+  appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    color: -internal-light-dark(black, white);
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+input[type="submit" i] {
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    color: -internal-light-dark(black, white);
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+.boya{
+	background-color:#CCCCCC;
+	}
